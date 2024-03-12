@@ -1,7 +1,7 @@
 # we
 Student Activity
 
-username       password 
-admin           admin
-teacher         teacher
-student         student
+username:admin        password:admin
+username:student       password:student
+username:teacher       password:teacher
+
